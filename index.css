@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    width: 600px;
+    border: 2px solid rgb(16, 102, 37);
+    border-bottom: 6px solid goldenrod;
+    display: flex;
+    text-align: center;
+    margin:0 auto;
+    background: gray;
+}
+.avatar {
+    width: 200px;
+    margin-right: 10px;
+}
